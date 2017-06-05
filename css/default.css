@@ -94,7 +94,7 @@ body
   box-shadow: 1px 1px 3px dimgray;
   color: white;
   font-weight: bold;
-  text-shadow: 1px 1px 0 rgba(0,0,0,0,4);
+  text-shadow: 1px 1px 0 rgba(0,0,0,4);
   background-color: blue;
   background: linear-gradient(0deg,
       #00679A,
@@ -162,7 +162,7 @@ p.transition a
 {
   background-color: mediumseagreen;
   color: white;
-  font-size 30px;
+  font-size: 30px;
   text-decoration: none;
   padding: 5px;
   transition:background-color 1s 0s, color 1s 1s;;
